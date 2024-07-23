@@ -1,9 +1,9 @@
 # Python Loop Statements - Assignment 2
 
 # Task 1 - Infinite loop with user input break statement
-first_car_make = True
+fav_creature = True
 
-while first_car_make:
+while fav_creature:
     user = input("Can you guess my favorite creature that lives in the ocean?")
     if user == "Shark":
         break
